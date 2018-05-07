@@ -1,8 +1,16 @@
 # parallel_computing_project
-<span style="font-family:Avenir; font-size11pt;">Team mates: Shulin Cao, Manxi Lu, Chao Fan
+<span style="font-family:Avenir; font-size11pt;">Team mates: Shulin Cao, Manxi Lu, Chao Fan</span>
 <p>The reference publication can be downloaded here <a href="https://arxiv.org/pdf/1703.07511.pdf">https://arxiv.org/pdf/1703.07511.pdf</a>.</p>
 ###More References
 <p><a href="https://medium.com/data-science-group-iitr/artistic-style-transfer-with-convolutional-neural-network-7ce2476039fd">https://medium.com/data-science-group-iitr/artistic-style-transfer-with-convolutional-neural-network-7ce2476039fd</a>.</p>
+
+
+<span style="font-family:Avenir; font-size11pt;">Deep learning training on distributed systems or with Parallel Computing:</span>
+<p><a href="https://arxiv.org/pdf/1802.09941.pdf">Demystifying Parallel and Distributed Deep Learning.</a>.</p>
+
+
+
+
 
 | Date | Plans |
 | --- | --- |

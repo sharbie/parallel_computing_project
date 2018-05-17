@@ -10,7 +10,7 @@
 
 <p><a href="https://towardsdatascience.com/important-resources-if-you-are-working-with-neural-style-transfer-or-deep-photo-style-transfer-719593b3dbf1">Important-resources-if-you-are-working-with-neural-style-transfer.</a>.</p>
 
-
+<p><a href="https://arxiv.org/pdf/1802.06474.pdf">FastPhotoStyle by Nvidia.</a>.</p>
 
 | Date | Plans |
 | --- | --- |

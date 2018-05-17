@@ -8,7 +8,7 @@
 <span style="font-family:Avenir; font-size11pt;">Deep learning training on distributed systems or with Parallel Computing:</span>
 <p><a href="https://arxiv.org/pdf/1802.09941.pdf">Demystifying Parallel and Distributed Deep Learning.</a>.</p>
 
-
+<p><a href="https://towardsdatascience.com/important-resources-if-you-are-working-with-neural-style-transfer-or-deep-photo-style-transfer-719593b3dbf1">Important-resources-if-you-are-working-with-neural-style-transfer.</a>.</p>
 
 
 

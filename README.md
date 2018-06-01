@@ -12,6 +12,8 @@
 
 <p><a href="https://arxiv.org/pdf/1802.06474.pdf">FastPhotoStyle by Nvidia.</a></p>
 
+<p><a href="https://github.com/FalongShen/styletransfer">PhotoStyle by FalongShen.</a></p>
+
 | Date | Plans |
 | --- | --- |
 | Apr 30 | Team Formation and Topic Brainstorming |
@@ -26,5 +28,4 @@
 | Jun 05 | Group Meeting: Result Analysis (Expected 1-2 weeks implementation time) |
 | Jun 11 | Check questions with instructors and Conduct the Final Report |
 | Jun 13 | Final Deliverable with Team Evaluation |
-hello
 

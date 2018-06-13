@@ -14,6 +14,8 @@
 
 <p><a href="https://github.com/FalongShen/styletransfer">PhotoStyle by FalongShen.</a></p>
 
+<p><a href="https://github.com/dsgiitr/Neural-Style-Transfer">Neural Style Transfer</a></p>
+
 | Date | Plans |
 | --- | --- |
 | Apr 30 | Team Formation and Topic Brainstorming |
